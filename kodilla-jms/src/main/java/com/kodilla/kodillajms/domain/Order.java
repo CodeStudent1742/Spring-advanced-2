@@ -1,6 +1,8 @@
 package com.kodilla.kodillajms.domain;
 
-public class Order {
+import java.io.Serializable;
+
+public class Order implements Serializable {
     private String orderId;
     private String productName;
 

@@ -1,6 +1,7 @@
 package com.kodilla.kodillajms.receiver;
 
-import org.springframework.core.annotation.Order;
+
+import com.kodilla.kodillajms.domain.Order;
 import org.springframework.jms.annotation.JmsListener;
 import org.springframework.stereotype.Component;
 
