@@ -7,4 +7,5 @@ pluginManagement {
 }
 rootProject.name = 'spring-adv-2'
 include 'kodilla-jms'
+include 'kodilla-converter'
 
